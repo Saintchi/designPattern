@@ -1,4 +1,4 @@
-package com.xuangu.saintchi.command.theory;
+package com.hyunji.learning.command.theory;
 
 public class Receiver {
 

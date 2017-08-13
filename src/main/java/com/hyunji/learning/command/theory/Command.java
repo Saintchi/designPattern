@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.xuangu.saintchi.command.theory;
+package com.hyunji.learning.command.theory;
 
 /**
  * @author Administrator
